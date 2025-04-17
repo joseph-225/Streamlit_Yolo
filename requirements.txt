@@ -1,3 +1,14 @@
 ultralytics
 playsound3
 streamlit
+streamlitultralytics
+opencv-python-headless
+torch
+torchvision
+numpy
+pillow
+pyyaml
+matplotlib
+scipy
+pandas
+tqdm
