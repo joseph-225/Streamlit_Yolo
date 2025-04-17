@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['multiple_accident', 'normal', 'single accident']
+
+roboflow:
+  workspace: universitas-nahdlatul-ulama-sidoarjo
+  project: cars-crash-detection
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/universitas-nahdlatul-ulama-sidoarjo/cars-crash-detection/dataset/14
