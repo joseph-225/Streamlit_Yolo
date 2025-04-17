@@ -1,7 +1,6 @@
 ultralytics
 playsound3
 streamlit
-streamlitultralytics
 opencv-python-headless
 torch
 torchvision
